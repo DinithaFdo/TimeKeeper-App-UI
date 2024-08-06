@@ -48,4 +48,4 @@ To view and interact with the design, visit: [Time Keeper UI Design on Figma](ht
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [info@dinitha.me](mailto:info@dinitha.me)
+For any inquiries or feedback, please contact me at [info@dinitha.me](mailto:info@dinitha.me)
